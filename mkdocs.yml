@@ -1,4 +1,7 @@
 site_name: ACF-Gamma Legal Codex
+site_url: https://acf-gamma.github.io/
+theme:
+  name: material
 plugins:   
   - search
   - meta
