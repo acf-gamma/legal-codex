@@ -2,6 +2,11 @@ site_name: ACF-Gamma Legal Codex
 site_url: https://acf-gamma.github.io/
 theme:
   name: material
+  palette:
+    scheme: slate
+  font:
+    text: Electrolize
+    code:   Courier Prime 
 plugins:   
   - search
   - meta
