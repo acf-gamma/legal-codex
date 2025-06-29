@@ -6,8 +6,20 @@ theme:
     scheme: slate
   font:
     text: Electrolize
-    code:   Courier Prime 
+    code: Courier Prime 
+  features:
+    - navigation.footer
 plugins:   
   - search
   - meta
   - tags
+markdown_extensions:
+  - attr_list
+  - pymdownx.betterem
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/sPmWfcJa3n
+copyright: Copyright &copy; - ACF-Gamma 2024-2025
+extra_css:
+  - stylesheets/extra.css
