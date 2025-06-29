@@ -26,9 +26,7 @@ A. Departments shall be categorized into 3 types:
 B. Foundation Personnel are limited to membership of only:
 
 1. Two civil departments at once;
-
 2. One combative and two civil departments at once; and 
-
 3. Unlimited miscellaneous departments.
 
 | Civil | Combative | Miscellaneous |
@@ -44,7 +42,7 @@ B. Foundation Personnel are limited to membership of only:
 
 A. Enforcement bodies refer to Foundation bodies responsible for upholding the laws of the Foundation. This section outlines the enforcement bodies, their duties, and their powers.
 
-| **__Internal Justice Bureau__** | **__Internal Security Bureau__** | **__Moderation Team__** |
+| **^^Internal Justice Bureau^^** | **^^Internal Security Bureau^^** | **^^Moderation Team^^** |
 |-------------------------|--------------------------|-----------------|
 | A. The Internal Justice Bureau is the primary law enforcement, preventing violations of the LC, apprehension of violators, and prosecution if required. | A. The Internal Security Bureau is a law enforcement body, primarily engaging in investigations or prosecution of High Crimes. | A. The Moderation Team is the a law enforcement body solely responsible for enforcement of in-game and Discord rules. 
 | B. The Internal Justice Bureau may amend certain parts of the Legal Codex. | B. The Internal Security Bureau is the sole body responsible for anti-corruption monitoring. | B. The Moderation Team may not prosecute violations under the Legal Codex or any other applicable law unless otherwise stated.
@@ -59,24 +57,21 @@ A. Combative entities have the sole responsibility over facility security and sa
 
 B. All combative entities may issue reasonable orders to other personnel, which must be clearly communicated to them. 
 
- * Orders to Foundation Staff and civil personnel that would obstruct or otherwise damage combative activities;
+1. Orders to Foundation Staff and civil personnel that would obstruct or otherwise damage combative activities;
+2. Orders to Foundation Staff and civil personnel that prevent harm of others and/or prevent site instability, such as ordering civil personnel away from hostile areas;
+3. Orders which uphold current Facility Protocol; and 
+4. Orders to cease a ongoing Legal infraction, such as escorting a trespasser outside of a restricted area or detention of rogues. All rogues must be transferred as soon as possible to the Internal Justice Bureau or Military police.
 
- * Orders to Foundation Staff and civil personnel that prevent harm of others and/or prevent site instability, such as ordering civil personnel away from hostile areas;
+C. Combative entities may use force to uphold orders of their superiors and combative duties, as specified by law or internal regulations.
 
- * Orders which uphold current Facility Protocol; and 
-
- * Orders to cease a ongoing Legal infraction, such as escorting a trespasser outside of a restricted area or detention of rogues. All rogues must be transferred as soon as possible to the Internal Justice Bureau or Military police.
-
-C. Combative entities may use force to uphold their legal orders and combative duties, as specified by law or internal regulations.
-
-| **__Military Police__** | **__Security Corps__** | **__Security Operations Unit__** |
+| **^^Military Police^^** | **^^Security Corps^^** | **^^Security Operations Unit^^** |
 |-------------------------|------------------------|----------------------------------|
 | A. The Military Police has complete authority over matters involving law enforcement upon combatives. | A. Security Corps command has complete authority over the Class-D Containment Zone during standard protocol; | A. The Security Operations Unit has complete jurisdiction over the Class-D Containment Zone during instability of the CDCZ. |
 | B. If no Military Police, are present authority shall cascade upon dictated by applicable law. | B. If no Security Corps, are present authority shall cascade upon dictated by applicable law. | B. The Security Operations Unit shall have jurisdiction over hostage situations which involve personnel of Security Level 3 or lower. |
 | | | C. If no Security Operations Unit, are present authority shall cascade upon dictated by applicable law. |
 
 
-| **__MTF Xi-13 "Sequere Nos"__** | **__MTF Rho-36 "Breacher's Pets"__** | **__MTF Titan-1 "Off The Books"__** |
+| **^^MTF Xi-13 "Sequere Nos"^^** | **^^MTF Rho-36 "Breacher's Pets"^^** | **^^MTF Titan-1 "Off The Books"^^** |
 |---------------------------------|--------------------------------------|----------------------------|
 | A. Mobile Task Force Xi-13 has complete authority over the entire facility during hostile incursions. | A. Mobile Task Force Rho-36 has complete authority over all anomaly containment zones. | A. MTF Titan-1 has complete authority over protecting personnel Security Level 3 or higher. |
 | B. If no Xi-13, are present authority shall cascade upon dictated by applicable law. | B. Rho-36 has complete authority over the handling and control of all SCPs within anomaly containment zones. | B. MTF Titan-1 has complete authority over hostage situations that involve Security Level 4 or higher personnel. |

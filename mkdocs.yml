@@ -16,12 +16,13 @@ plugins:
 markdown_extensions:
   - attr_list
   - pymdownx.betterem
-  - pymdownx.cart
+  - pymdownx.caret
   - pymdownx.tilde
+  - pymdownx.mark
 extra:
   social:
     - icon: fontawesome/brands/discord
       link: https://discord.gg/sPmWfcJa3n
 copyright: Copyright &copy; - ACF-Gamma 2024-2025
 extra_css:
-  - stylesheets/extra.css
+  - assets/stylesheets/extra.css
