@@ -16,6 +16,8 @@ plugins:
 markdown_extensions:
   - attr_list
   - pymdownx.betterem
+  - pymdownx.cart
+  - pymdownx.tilde
 extra:
   social:
     - icon: fontawesome/brands/discord
