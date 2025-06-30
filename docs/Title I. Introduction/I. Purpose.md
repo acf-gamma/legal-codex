@@ -6,7 +6,7 @@ title: I. Purpose
 
 A. The Legal Codex shall act as the supreme law of the Foundation.
 
-B. Except as otherwise explicitly specified herein all laws set forth under the Legal Codex shall apply to all members of the Foundation without any sort of exception.
+B. Except as otherwise explicitly specified within appropriate law all laws set forth under the Legal Codex shall apply to all members of the Foundation without any sort of exception.
 
 ---
 
