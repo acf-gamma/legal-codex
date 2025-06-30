@@ -7,11 +7,11 @@ title: I. Departments
 
 A. This article outlines:
 
-1. How many departments you may join.
-2. Powers given to departments.
-3. Who can give you orders and when they are allowed to.
+1. What departments Foundation Personnel may join.
+2. Authority and jurisdiction given to departments.
+3. Who has the authority to issue orders to you and/or other Foundation Personnel.
 
-B. All departments are composed of command teams responsible for decision making and management of their department. They may regulate and command their departments at their discretion, but must comply with the Legal Codex and O5 Council mandates.
+B. All departmental operations shall be conducted following the regulations set forth herein by the Legal Codex and other appropriate legislation.
 
 ---
 
