@@ -11,7 +11,7 @@ A. This article outlines:
 2. Authority and jurisdiction given to departments.
 3. Who has the authority to issue orders to you and/or other Foundation Personnel.
 
-B. All departmental operations shall be conducted following the regulations set forth herein by the Legal Codex and other appropriate legislation.
+B. All departmental operations shall be conducted following the regulations set forth by the Legal Codex and other appropriate legislation.
 
 ---
 
