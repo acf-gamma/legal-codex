@@ -44,7 +44,7 @@ A. Enforcement bodies refer to Foundation bodies responsible for upholding the l
 
 | **^^Internal Justice Bureau^^** | **^^Internal Security Bureau^^** | **^^Moderation Team^^** |
 |-------------------------|--------------------------|-----------------|
-| A. The Internal Justice Bureau is the primary law enforcement, preventing violations of the LC, apprehension of violators, and prosecution if required. | A. The Internal Security Bureau is a law enforcement body, primarily engaging in investigations or prosecution of High Crimes. | A. The Moderation Team is the a law enforcement body solely responsible for enforcement of in-game and Discord rules. 
+| A. The Internal Justice Bureau is the primary law enforcement, preventing violations of the Legal Codex, apprehension of violators, and prosecution if required. | A. The Internal Security Bureau is a law enforcement body, primarily engaging in investigations or prosecution of High Crimes. | A. The Moderation Team is the a law enforcement body solely responsible for enforcement of in-game and Discord rules. 
 | B. The Internal Justice Bureau may amend certain parts of the Legal Codex. | B. The Internal Security Bureau is the sole body responsible for anti-corruption monitoring. | B. The Moderation Team may not prosecute violations under the Legal Codex or any other applicable law unless otherwise stated.
 | C. They may not amend Title I, Title II, Title IV Article II, and Title V. | C. The Internal Security Bureau may only prosecute under High Crimes. | 
 | | D. The Internal Justice Bureau may request investigations to be performed by the Internal Security Bureau. | 
