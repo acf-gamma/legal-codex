@@ -14,20 +14,27 @@ B. Civil personnel must not enter any area marked as hostile under any circumsta
 
 ### External Zone
 The external zone contains:
+
 * Helipad
 * Group of Interest Spawns; and
 * Mobile Task Force Outpost
 
 **Helipad**
+
 A. For combative use only unless:
 
 1. There is a ongoing protocol which requires evacuation; or
 2. Ordered by administration.
 
 **Group of Interest Spawns** !!! danger
-A. Do not enter for any reason.
+
+A. Do not enter unless:
+
+1. Conducting diplomacy; or
+2. Invited by the GOI's command.
 
 **Mobile Task Force Outpost**
+
 A. For combative use only.
 
 ### Internal Surface Zone
