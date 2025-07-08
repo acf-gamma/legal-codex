@@ -2,7 +2,7 @@
 title: II. Locations & Access
 ---
 
-# §1. General Provisions
+## §1. General Provisions
 
 A. This article outlines where you can and cannot go as Foundation personnel.
 
@@ -10,7 +10,7 @@ B. Civil personnel must not enter any area marked as hostile under any circumsta
 
 ---
 
-# §2. Surface Zone
+## §2. Surface Zone
 
 ### External Zone
 The external zone contains:
