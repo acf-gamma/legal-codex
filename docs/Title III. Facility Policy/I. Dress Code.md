@@ -3,7 +3,7 @@ title: I. Dress Code
 ---
 
 
-# §1. General Provisions
+## §1. General Provisions
 
 A. This article outlines what clothing and accessories personnel may wear on-site.
 
@@ -11,7 +11,7 @@ B. The spirit of the dress code is to maintain an atmosphere of a SCP environmen
 
 ---
 
-# §2. Policies
+## §2. Policies
 
 A. All avatars must be human in nature:
 
