@@ -9,6 +9,8 @@ theme:
     code: Courier Prime 
   features:
     - navigation.footer
+    - navigation.tracking
+    - toc.follow
 plugins:   
   - search
   - meta
@@ -18,6 +20,10 @@ markdown_extensions:
   - pymdownx.mark
   - admonition
   - pymdownx.details
+  - toc:
+      title: On this page 
+      permalink: true 
+      toc_depth: 6
 extra:
   social:
     - icon: fontawesome/brands/discord
